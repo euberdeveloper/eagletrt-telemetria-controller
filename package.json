@@ -1,0 +1,26 @@
+{
+  "name": "eagletrt-telemetria-controller",
+  "version": "1.0.0",
+  "description": "The controller of eagletrt telemetlry",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main",
+    "command": "node command",
+    "timestamp": "node timestamp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euberdeveloper/eagletrt-telemetria-controller.git"
+  },
+  "author": "Eugenio Vinicio Berretta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/euberdeveloper/eagletrt-telemetria-controller/issues"
+  },
+  "homepage": "https://github.com/euberdeveloper/eagletrt-telemetria-controller#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "mqtt": "^3.0.0",
+    "mqtt-now": "^2.1.2"
+  }
+}
