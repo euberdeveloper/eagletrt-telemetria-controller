@@ -1,8 +1,8 @@
+# 301 - This repository has been moved to the official **[eagletrt organization](https://www.github.com/eagletrt)**.
+
 # eagletrt-telemetria-controller
 
 A controller of the [@eagletrt](https://www.github.com/eagletrt).
-
-**Note:** This repository has been moved to the official **[eagletrt organization](https://www.github.com/eagletrt/eagletrt-telemetria-controller)**.
 
 ## Project purpose
 
